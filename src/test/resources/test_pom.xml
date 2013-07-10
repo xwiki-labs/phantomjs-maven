@@ -1,0 +1,16 @@
+<project>
+  <build>
+    <plugins>
+      <plugin>
+         <groupId>cjd</groupId>
+         <artifactId>phantomjs-maven</artifactId>
+         <version>0.1.0-SNAPSHOT</version>
+         <configuration>
+           <args>
+             <arg>${basedir}/src/test/resources/test_main.js</arg>
+           </args>
+         </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
