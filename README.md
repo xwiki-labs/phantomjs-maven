@@ -1,5 +1,7 @@
 #phantomjs-maven
 
+[![XWiki labs logo](https://raw.githubusercontent.com/xwiki-labs/xwiki-labs-logo/master/projects/xwikilabs/xlabs-project.png "XWiki labs")](https://labs.xwiki.com/xwiki/bin/view/Main/WebHome)
+
 **Motivation**
 A simple maven plugin for running PhantomJS with your own arguments.
 Based on arquillian-phantom-driver which is a WebDriver backend.
